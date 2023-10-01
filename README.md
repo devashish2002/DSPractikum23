@@ -1,1 +1,1 @@
-# DSPractikum23
+# DSPractikum23 - Assignments
